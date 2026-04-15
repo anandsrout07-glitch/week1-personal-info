@@ -28,7 +28,7 @@ age_in_months=age*12
 print("="*30,"\nYour Personal Information\n","="*30)
 
 print(f"Name:{name}")
-print(f"Age:{age}")
+print(f"Age:{age} ({age_in_months}month old)")
 print(f"Hobby:{hobby}")
 print(f"City:{city}")
 
