@@ -1,0 +1,19 @@
+Test Case 1 - Normal Input
+Input: Favorite food = "Biriyani", Favorite color = "Black"
+Expected: Program displays all info correctly
+Result: PASSED ✓
+
+Test Case 2 - Empty Input (food)
+Input: Favorite food = "" (just pressed Enter)
+Expected: Program should ask again
+Result: PASSED ✓ - while loop worked correctly
+
+Test Case 3 - Empty Input (color)
+Input: Favorite color = "" (just pressed Enter)
+Expected: Program should ask again
+Result: PASSED ✓
+
+Test Case 4 - Long Input
+Input: Favorite food = "aaaaaaaaaaaaaaaaaaaaaaaaa"
+Expected: Program accepts and displays it
+Result: PASSED ✓
